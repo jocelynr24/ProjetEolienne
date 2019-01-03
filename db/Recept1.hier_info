@@ -1,0 +1,17 @@
+|Recept1
+stClk => iCtDec[0].CLK
+stClk => iCtDec[1].CLK
+stClk => iCtDec[2].CLK
+stClk => iCtDec[3].CLK
+stClk => iCtDec[4].CLK
+stClk => iCtDec[5].CLK
+stClk => iCtDec[6].CLK
+stClk => iCtDec[7].CLK
+stClk => iCtDec[8].CLK
+stClk => iCtDec[9].CLK
+stClk => iCtDec[10].CLK
+stClk => iCtDec[11].CLK
+stTSOP => process_0.IN0
+stPresence <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+
+
